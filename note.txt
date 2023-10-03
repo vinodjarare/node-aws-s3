@@ -1,0 +1,6 @@
+- create user 
+- go in security credentials
+- create access key
+
+-- we can use acesskey and secretAccessKey
+
